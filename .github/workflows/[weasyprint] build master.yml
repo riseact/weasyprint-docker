@@ -2,8 +2,6 @@ name: WEASYPRINT | Build image (master)
 
 on:
   push:
-    paths:
-      - "."
     branches:
       - "master"
 
